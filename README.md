@@ -6,3 +6,8 @@ Java Implementation of:
 * Graph Algorithm
 * Insearch Sorth
 * Bubble Sort
+* Kruskal Graph Algorithm
+* GCD
+* Find Find
+* Integer to Binary
+* Matrix Multiplication

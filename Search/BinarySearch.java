@@ -1,3 +1,4 @@
+public class BinarySearch{
 public static int binarySearch(int[] array, int key){
         int start = 0;
         int end = array.length;
@@ -23,3 +24,4 @@ public static int binarySearch(int[] array, int key){
         }
         return -1;
     }
+}
